@@ -1,0 +1,12 @@
+{ 
+    "firebaseKeys" : {
+        "apiKey": "AIzaSyAR1s0RPz_EYWt1U5SigNA-8luR86zrjPQ",
+        "authDomain" : "dinntrest-project.firebaseapp.com",
+        "databaseURL" : "https://dinntrest-project.firebaseio.com",
+        "projectId" : "dinntrest-project",
+        "storageBucket" : "dinntrest-project.appspot.com",
+        "messagingSenderId" : "839820429947",
+        "appId" : "1:839820429947:web:3bb80c9ea8fed46048f0de",
+        "measurementId" : "G-1T24Y359XC"
+  }
+}

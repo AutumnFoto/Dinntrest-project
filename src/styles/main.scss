@@ -2,8 +2,34 @@
 @import "~@fortawesome/fontawesome-free/css/all.min.css";
 
 body {
-  background-color: antiquewhite;
-  color: brown;
+  background-color: #99C1B9;
+  color: rgb(243, 240, 240);
   text-align: center;
-  margin-top: 100px;
+}
+
+.hide {
+  display: none;
+}
+
+.welcome-logo {
+  font-size: 10em;
+  color: #F4EBDC;
+}
+
+.welcome-container {
+  margin-top: 200px;
+  padding: 50px;
+  background: #a58d8d;
+  border-radius: 40px;
+  border: 10px solid #032B56;
+  justify-content: center;
+}
+
+.welcome-button {
+  margin-top: 40px;
+  
+}
+#app {
+  display: flex;
+  justify-content: center;
 }
